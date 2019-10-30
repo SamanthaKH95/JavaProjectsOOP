@@ -1,4 +1,0 @@
-square 5
-rectangle 5 10
-square 3
-triangle 3 4 5 
